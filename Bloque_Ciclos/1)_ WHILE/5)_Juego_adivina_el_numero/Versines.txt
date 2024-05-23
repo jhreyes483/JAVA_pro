@@ -1,0 +1,18 @@
+
+
+commit 1a22c31b419a775db77851139f63f900730b67ad (HEAD)
+Author: Javier Reyes Neira <jhreyes483@misena.edu.co>
+Date:   Fri Apr 19 15:04:25 2019 -0500
+
+    Version:  metodo random y contador
+
+
+commit b7aedef4251b4cb004608710ddec00791608ee30 (HEAD)
+Author: Javier Reyes Neira <jhreyes483@misena.edu.co>
+Date:   Fri Apr 19 15:08:59 2019 -0500
+
+    Version2:  Mat.random():,   y contador de intentos
+
+
+
+

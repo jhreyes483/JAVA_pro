@@ -1,0 +1,5 @@
+Leer 5 numeros por teclado, almacenarlos en un arreglo y a continuacion
+realizar el promedio de los numeros positivos, negativos y ceros.
+
+Read 5 numbers by keyboard, store them in an array and then
+perform the average of positive, negative and zero numbers.

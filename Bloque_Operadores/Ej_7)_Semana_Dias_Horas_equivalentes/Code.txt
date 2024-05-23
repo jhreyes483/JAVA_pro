@@ -1,0 +1,23 @@
+
+    public static void main(String[] args) {
+       
+   Scanner leer = new Scanner(System.in);
+   
+  int semanas, dias, horasTotales, horas;
+   
+        System.out.println("Ingrese horas");
+        horasTotales = leer.nextInt();
+      
+        
+        //semana = 168 horas
+       
+        semanas = horasTotales / 168;
+        dias = horasTotales%168 / 24;
+        horas = horasTotales%24;
+        
+        
+        System.out.println("El equivalente es :\nSemanas:"+semanas+"\nDias: "+dias+"\nHoras: "+horas);
+       
+    }
+    
+}

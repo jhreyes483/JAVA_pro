@@ -1,0 +1,25 @@
+package ejercicio_1;
+
+import javax.swing.JOptionPane;
+
+public class Ejercicio_1 {
+
+   
+    public static void main(String[] args) {
+        
+        float num=0, cuadrado;
+        do{
+        
+        
+       num = Integer.parseInt(JOptionPane.showInputDialog("Ingrese numero"));
+    
+        cuadrado = (float) Math.sqrt(num);
+        
+        
+        JOptionPane.showMessageDialog(null,"El cuadrado de "+(int)num+" es; "+cuadrado);
+    
+        
+        }while(num>0);
+    }
+    
+}

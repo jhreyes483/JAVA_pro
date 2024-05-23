@@ -1,0 +1,6 @@
+Pedir numero hasta que se teclee un 0, 
+mostrar la suma de todos los numeros introdusidos
+
+
+Ask for a number until a 0 is typed,
+show the sum of all the numbers entered

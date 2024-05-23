@@ -1,0 +1,1 @@
+Leer un numero y mostrar su cuadrado, repetir el proceso hadta que se introduzaca un numero negativo

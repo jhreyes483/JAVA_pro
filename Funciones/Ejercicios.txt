@@ -1,0 +1,2 @@
+1) Metodo que diga hola mundo
+2) Crear funcion que devuva la suma de dos numeros

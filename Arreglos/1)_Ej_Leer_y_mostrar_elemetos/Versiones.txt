@@ -1,0 +1,15 @@
+commit 831a2627929f6bdd665d0ff70318d32c1423a8b2 (HEAD -> master)
+Author: Javier Hildebrando Reyes Neira <jhreyes483@misena.edu.co>
+Date:   Mon Apr 22 08:22:03 2019 -0500
+
+    Version: 5 Nombres en pantalla
+
+---------------------------------------------------------------------
+
+commit 3bc90fe3d382c416d8e4bc9eef7d348e9675d518 (HEAD -> master)
+Author: Javier Hildebrando Reyes Neira <jhreyes483@misena.edu.co>
+Date:   Mon Apr 22 13:19:18 2019 -0500
+
+    Version 2: almacenar 5 numeros
+
+

@@ -1,0 +1,11 @@
+commit bc7d96183063ce4a946a22cda5f95dbb0814fd67 (HEAD -> master)
+Author: Javier Reyes Neira <jhreyes483@misena.edu.co>
+Date:   Fri Apr 19 12:27:02 2019 -0500
+
+    Version 2, Ventanas y cnsola
+
+commit 2e43aa1da570c50c4e65715fd76508c308ad0407
+Author: Javier Reyes Neira <jhreyes483@misena.edu.co>
+Date:   Fri Apr 19 12:23:07 2019 -0500
+
+    Version 1, Texto en ventanas

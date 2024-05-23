@@ -1,0 +1,2 @@
+Escribir todos los numeros del 100 de 7 en 7.
+Write all the numbers of 100 from 7 to 7.

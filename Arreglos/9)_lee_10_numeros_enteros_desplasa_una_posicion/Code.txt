@@ -1,0 +1,45 @@
+package ejercicio_9;
+
+import java.util.Scanner;
+
+public class Ejercicio_9 {
+
+    public static void main(String[] args) {
+      
+        Scanner leer = new Scanner(System.in);
+       int numeros[] = new int[10];
+       
+      
+        
+        
+         System.out.println("Leer elementos del arreglo");
+         for(int i=0 ; i<10 ; i++){
+             System.out.print(+(i)+". Ingrese numero: ");
+             int numero = leer.nextInt();
+             numeros[i] = numero;
+         
+         }
+         int ultimo = numeros[9];
+         System.out.println("");
+         
+         //Correr una posicion en el arreglo
+         for(int i=8 ; i>=0 ; i-- ) {
+         numeros[i+1] = numeros[i];
+         
+         }
+         Espacio();
+         
+         numeros[0] = ultimo;
+         
+         //Mostrar datos
+         for(int i=0 ; i<=9 ; i++ ){
+             System.out.println(+(i)+". numero: "+numeros[i]);
+             
+        }
+      }
+    
+    public static void Espacio(){System.out.println(" ");}
+
+}
+    
+

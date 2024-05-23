@@ -1,0 +1,5 @@
+Pedir 10sueldos.
+Mostrar su suma y cuantos hay mayores de 1000
+
+Ask for 10 wages.
+Show your sum and how many are over 1000

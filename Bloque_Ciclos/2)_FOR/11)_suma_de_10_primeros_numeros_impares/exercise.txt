@@ -1,0 +1,5 @@
+Diseñar un programa que muestre
+el producto de los 10 primeros numeros impares
+
+Design a program that shows
+the product of the first 10 odd numbers

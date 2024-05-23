@@ -1,0 +1,8 @@
+Leer por teclado una serie de 10 numeros enteros.
+La aplicacion debe indicarnos si los numeros estan ordenados de forma:
+creciente, decreciente, o si estan desordenados.
+
+
+Read a series of 10 whole numbers by keyboard.
+The application must indicate if the numbers are ordered in the following way:
+increasing, decreasing, or if they are disorderly

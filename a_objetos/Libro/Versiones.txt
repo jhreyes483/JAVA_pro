@@ -1,0 +1,16 @@
+commit 9c9e691c83e2e38d2da3de8724ee6331b5001456 (HEAD -> master)
+Author: Javier Reyes Neira <jhreyes483@misena.edu.co>
+Date:   Fri Apr 19 22:08:06 2019 -0500
+
+    Version 1
+
+
+
+---------------------------------------------------------------------
+
+commit e8bc9ddfc18edca6bca305dfe5ec9e27250f9820 (HEAD -> master)
+Author: Javier Reyes Neira <jhreyes483@misena.edu.co>
+Date:   Fri Apr 19 22:42:17 2019 -0500
+
+    Version terminada,  Dos Libros
+

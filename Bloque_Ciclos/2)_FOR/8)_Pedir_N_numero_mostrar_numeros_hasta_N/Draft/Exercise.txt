@@ -1,0 +1,4 @@
+Pedir un numero N, mostrar todos los numero del 1 al N
+
+
+Ask for a number N, show all the numbers from 1 to N

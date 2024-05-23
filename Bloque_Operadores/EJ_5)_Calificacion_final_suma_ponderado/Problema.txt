@@ -1,0 +1,5 @@
+La calificacion final deun estudiante de informatica se calcula con base a las de cuatro
+aspectos de su rendimiento academico: participacion, primer examen parcial, segundo examen parcial
+segundo examen parcial y exemen final. Sabiendo que las calificaciones anteriores entran  a la calificacion final
+con ponderaciones del 10%, 25% 25% y 40% Hacer un programa que calcule e imprima la calificacion final 
+obtenidad por un estudiante.

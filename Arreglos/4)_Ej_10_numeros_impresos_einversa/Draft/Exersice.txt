@@ -1,0 +1,7 @@
+Leer 10 numeros enteros, guardarlos en un arreglo.
+debemos mostrarlos en el sguiente orde: el primero, el ultimo,
+el segundo, el penultimo, el tercero, etc.
+
+Read 10 whole numbers, save them in an array.
+we must show them in the next order: the first, the last,
+the second, the penultimate, the third, etc.

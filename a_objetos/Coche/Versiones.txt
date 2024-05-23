@@ -1,0 +1,11 @@
+commit f0a0bcc272bd0c117db3f623285721264a88bee0 (HEAD -> master)
+Author: Javier Reyes Neira <jhreyes483@misena.edu.co>
+Date:   Sat Apr 20 00:03:52 2019 -0500
+
+    Version, pide datos de coche y los almacena
+
+commit c11d3140d45ccf3a7c3e7fe95b55a0b18dcee375
+Author: Javier Reyes Neira <jhreyes483@misena.edu.co>
+Date:   Fri Apr 19 23:16:13 2019 -0500
+
+    version 1 incompleta

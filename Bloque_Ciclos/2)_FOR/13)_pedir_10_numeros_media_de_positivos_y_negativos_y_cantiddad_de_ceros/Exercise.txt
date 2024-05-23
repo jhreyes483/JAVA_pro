@@ -1,0 +1,7 @@
+Pedir 10 numero.
+Mostrar la promedio de los numero positivos,
+promedio de los numeros negativos ycantidad de ceros 
+
+Ask for 10 number.
+Show the average of the positive numbers,
+average of the negative numbers and amount of zeros

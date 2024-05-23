@@ -1,0 +1,11 @@
+commit 7f408424e9940fc6e57b9bf3fe77ed5ba8c7ccfe (HEAD, master)
+Author: jhreyes483 <jhreyes@misena.edu.co>
+Date:   Fri Apr 19 11:08:03 2019 -0500
+
+    version 2, texto en ventanas
+
+commit 66f2083dd1d0e31acb3aff941173a6c28579d5cf
+Author: jhreyes483 <jhreyes@misena.edu.co>
+Date:   Fri Apr 19 11:04:26 2019 -0500
+
+    Version 1, Texto en consola

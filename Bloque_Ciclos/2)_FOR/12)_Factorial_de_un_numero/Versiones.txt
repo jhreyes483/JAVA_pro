@@ -1,0 +1,16 @@
+commit d1b1f56862a05b7f4637347389d8751d41a9a827 (HEAD -> master)
+Author: Javier Reyes Neira <jhreyes483@misena.edu.co>
+Date:   Fri Apr 19 19:46:57 2019 -0500
+
+ version con while
+
+
+
+-------------------------------------------------------------------
+
+
+commit 37ba592f7f0629ae52664163cad893371da87e9a (HEAD -> master)
+Author: Javier Reyes Neira <jhreyes483@misena.edu.co>
+Date:   Fri Apr 19 19:52:13 2019 -0500
+
+Version con for

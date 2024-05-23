@@ -1,0 +1,9 @@
+Guillermo tiene N dolares.
+Luis tiene la mitad de lo que posee Guillermo,
+Juan tiene la mitado de lo que posse Luis y guillermo juntos.
+hacer un progrma que calcule e imprima la cantidad de dinero que tiene entre los tres.
+
+
+
+
+
